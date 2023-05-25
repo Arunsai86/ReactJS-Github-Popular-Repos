@@ -1,0 +1,20 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.title {
+  font-family: 'Lobster';
+  margin-bottom: 10px;
+}
+.buttons-container {
+  display: flex;
+  margin-bottom: 15px;
+}
+.repository-container {
+  display: flex;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+}

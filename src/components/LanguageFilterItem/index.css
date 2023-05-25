@@ -1,0 +1,16 @@
+li {
+  list-style-type: none;
+}
+.tab-btn {
+  margin: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.active-btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 5px;
+  font-weight: 400;
+}
